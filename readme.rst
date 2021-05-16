@@ -1,4 +1,8 @@
 ###################
+Dummy Project to learn about Rest Api's and CodeIgniter
+###################
+
+###################
 What is CodeIgniter
 ###################
 
